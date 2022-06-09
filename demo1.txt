@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
 hello world 2 changes ........
-=======
 hello world 2 changes
 hi this rahul
->>>>>>> Stashed changes
