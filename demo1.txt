@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hello world 2 changes
 hi this rahul
+=======
+hello world 2 changes ........
+changes by shaad
+second
+>>>>>>> dbc10a3d36cd354015c7358051c7ae67213468b7
